@@ -39,3 +39,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 ## Projects
 
 Github Personal Website: building a personal homepage on Github using Jekyll Pages as part of Command Line Tools for Linguist course.
+
+## Misc
+
+My personal interests include architecture, urban development and urban travel.
