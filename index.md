@@ -16,7 +16,7 @@ My cross-disciplinary backgound also includes an MA degree in Political Science 
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form _first_name.last_name@helsinki.fi_. 
 
 ## Programming and Language Technology courses taken
 
@@ -38,8 +38,8 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
-Github Personal Website: building a personal homepage on Github using Jekyll Pages as part of Command Line Tools for Linguist course.
+**Github Personal Website:** building a personal homepage on Github using Jekyll Pages as part of Command-Line Tools for Linguists course.
 
-## Misc
+## Misc.
 
 My personal interests include architecture, urban development and urban travel.
