@@ -42,7 +42,7 @@ My email address is of the form _first_name.last_name@helsinki.fi_.
 
 [Github Website:](https://jxrajala.github.io/) building a personal homepage on Github using Jekyll Pages as part of Command-Line Tools for Linguists course.
 
-[MA thesis in French Linguistics:](http://urn.fi/URN:NBN:fi:hulib-201611283125) a study of the phonetic norm of Québec French.
+[MA thesis in French Linguistics:](http://urn.fi/URN:NBN:fi:hulib-201611283125) a study on the phonetic norm of Québec French.
 
 ## Misc.
 
